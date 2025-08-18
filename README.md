@@ -19,7 +19,7 @@
 > Em breve projetos públicos. Enquanto isso:
 ---
 
-## 📈 Estatísticas (auto-atualizadas)
+## 📈 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wiloberd&show_icons=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
