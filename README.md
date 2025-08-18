@@ -18,7 +18,12 @@
 ## 📌 Projetos em destaque
 > Em breve projetos públicos. Enquanto isso:
 ---
+## 🔎 Sobre mim
+- 2 anos de experiência desenvolvendo aplicações do **conceito à produção** (front/back).
+- Interesses atuais: **UX de Front-End**, **acessibilidade (a11y)** e **desempenho**.
+- Idiomas: 🇧🇷 PT (Fluente) · 🇫🇷 FR (Fluente) · 🇬🇧 EN (Em aprendizagem).
 
+---
 ## 📈 Estatísticas
 
 <p align="center">
@@ -34,13 +39,6 @@
 </p>
 
 ---
-## 🔎 Sobre mim
-- 2 anos de experiência desenvolvendo aplicações do **conceito à produção** (front/back).
-- Interesses atuais: **UX de Front-End**, **acessibilidade (a11y)** e **desempenho**.
-- Idiomas: 🇧🇷 PT (Fluente) · 🇫🇷 FR (Fluente) · 🇬🇧 EN (Em aprendizagem).
-
----
-
 ## 🧰 Tech Stack
 
 **Front-End**
