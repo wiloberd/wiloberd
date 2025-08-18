@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Roberd</h1>
+<h1 align="center">👋 Olá! Eu sou Roberd</h1>
 
 <p align="center">
   Desenvolvedor <b>Full Stack</b> com foco em <b>Front-End</b> — React.js, Next.js, TailwindCSS.<br/>
