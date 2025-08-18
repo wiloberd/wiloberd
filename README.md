@@ -15,6 +15,25 @@
 
 ---
 
+## 📌 Projetos em destaque
+> Em breve projetos públicos. Enquanto isso:
+---
+
+## 📈 Estatísticas (auto-atualizadas)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wiloberd&show_icons=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wiloberd" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiloberd&layout=compact" alt="Top Langs" />
+</p>
+
+---
 ## 🔎 Sobre mim
 - 2 anos de experiência desenvolvendo aplicações do **conceito à produção** (front/back).
 - Interesses atuais: **UX de Front-End**, **acessibilidade (a11y)** e **desempenho**.
@@ -55,26 +74,6 @@
 - **Site (Django & WordPress)** — desenvolvimento completo (front/back)  
 - **API RESTful** — integração e gestão de endpoints  
 - **Front-End MDM (Cliente/Admin)** — interfaces otimizadas
-
----
-
-## 📌 Projetos em destaque
-> Em breve projetos públicos. Enquanto isso:
----
-
-## 📈 Estatísticas (auto-atualizadas)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiloberd&show_icons=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wiloberd" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiloberd&layout=compact" alt="Top Langs" />
-</p>
 
 ---
 
